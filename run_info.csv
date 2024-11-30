@@ -1,0 +1,4 @@
+,stages,data,growth,num_classes,group_1x1,group_3x3,bottleneck,condense_factor,dropout_rate,batch_size,weight_pr ,learning_rate,momentum,W_decay
+0,14,cifar10,8,10,4,4,4,4,0,32,1,0.1,0.9,0
+1,14,cifar10,16,10,4,4,4,4,0,32,1,0.1,0.9,0
+2,14,cifar10,32,10,4,4,4,4,0,32,1,0.1,0.9,0
